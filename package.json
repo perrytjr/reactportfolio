@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/perrytjr/ReactPortfolio-/issues"
   },
-  "homepage": "https://github.com/perrytjr/ReactPortfolio-#readme"
+  "homepage": "https://github.com/perrytjr/ReactPortfolio-#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
+  }
 }
