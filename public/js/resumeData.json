@@ -47,37 +47,37 @@
         "title":"Password Generator",
         "category":"Generates a random password based on user-selected criteria.",
         "image":"original-thai-food.jpg",
-        "url":""
+        "url":"https://perrytjr.github.io/PasswordGenerator/Develop/"
       },
       {
         "title":"Quartantine Day Planner",
         "category":"A day quarantine day planner.",
         "image":"resume-website.jpg",
-        "url":""
+        "url":"https://msurio.github.io/project1/"
       },
       {
         "title":"Code Quiz Challenge",
         "category":"A javascript coding quiz.",
         "image":"smirkspace.jpg",
-        "url":""
+        "url":"https://perrytjr.github.io/Code-Quiz/index"
       },
       {
         "title":"Team Generator",
         "category":"Creates a team roster based on information collected from user.",
         "image":"smirkspace.jpg",
-        "url":""
+        "url":"https://github.com/perrytjr/Employee-Team-Generator"
       },
       {
         "title":"Eat-Da-Burger",
         "category":"A restaurant app that let users input the names of burgers they'd like to eat!",
         "image":"smirkspace.jpg",
-        "url":""
+        "url":"https://perrytjr.github.io/Portfolio/portfolio.html"
       },
       {
         "title":"Boo Chat",
         "category":"Developed a chat room using Socket.io and Sequelize ORM",
         "image":"smirkspace.jpg",
-        "url":""
+        "url":"https://perrytjr.github.io/Portfolio/portfolio.html"
       }
     ]
   }
