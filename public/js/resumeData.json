@@ -14,8 +14,8 @@
       "state":"(California)",
       "zip": "(92107)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
         "name":"linkedin",
@@ -44,28 +44,40 @@
         "url":"https://perrytjr.github.io/Weather-Dashboard/index.html"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Password Generator",
+        "category":"Generates a random password based on user-selected criteria.",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Quartantine Day Planner",
+        "category":"A day quarantine day planner.",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Code Quiz Challenge",
+        "category":"A javascript coding quiz.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":""
+      },
+      {
+        "title":"Team Generator",
+        "category":"Creates a team roster based on information collected from user.",
+        "image":"smirkspace.jpg",
+        "url":""
+      },
+      {
+        "title":"Eat-Da-Burger",
+        "category":"A restaurant app that let users input the names of burgers they'd like to eat!",
+        "image":"smirkspace.jpg",
+        "url":""
+      },
+      {
+        "title":"Boo Chat",
+        "category":"Developed a chat room using Socket.io and Sequelize ORM",
+        "image":"smirkspace.jpg",
+        "url":""
       }
     ]
   }
