@@ -1,7 +1,5 @@
 export default {
    
-  
-   
     name: "Perry Theobald.",
   
     //Contact Email

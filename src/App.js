@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import {BrowserRouter, Switch, Route} from 'react-router-dom'
 import About from './components/About';
-// import Landing from './components/Landing';
+import Landing from './components/Landing';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         <About></About>
         </Route>
         <Route path="/" exact>
-        {/* <Landing></Landing> */}
+        <Landing></Landing>
         </Route>
       </Switch>
     </BrowserRouter>
