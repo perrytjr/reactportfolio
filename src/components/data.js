@@ -14,17 +14,17 @@ export default {
     landingPagePara:
       "I'm a San Diego based Full Stack Developer. I enjoy working throughout the stack but I'm leaning more towards specializing in backend development. ",
   
-    // Landing Page Image (replace - root/public/assets/photo.jpg)
+    
     landingPageImage: "assets/photo.jpg",
   
-    // Change Projects Here
+   
     projects: [
       {
         id: 1, 
         title: "Weather Dashboard", 
-        // Image Size Should be (300X300 px)
+        
         imageSrc: "https://via.placeholder.com/300",
-        //Project URL - Add Your Project Url Here
+       
         url: "https://github.com/perrytjr/Weather-Dashboard"
       },
       {
@@ -57,17 +57,7 @@ export default {
         imageSrc: "https://via.placeholder.com/300",
         url: "https://github.com/perrytjr/Employee-Team-Generator"
       }
-      // Paste more projects here from the template
   
-      /*
-                      If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                  ,{
-                  id: 7,
-                  service: 'Something Amazing',
-                  imageSrc: "",
-                  url: ''
-              }
-                  */
     ],
   
     // Contact Section
