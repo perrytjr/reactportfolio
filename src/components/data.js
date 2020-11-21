@@ -21,38 +21,38 @@ export default {
         id: 1, 
         title: "Weather Dashboard", 
         
-        imageSrc: "https://via.placeholder.com/300",
+        imageSrc: "assets/weatherphoto.png",
        
         url: "https://github.com/perrytjr/Weather-Dashboard"
       },
       {
         id: 2, 
         title: "Password Generator",
-        imageSrc: "https://via.placeholder.com/300",
+        imageSrc: "assets/passwordgenerator.png",
         url: "https://github.com/perrytjr/PasswordGenerator"
       },
       {
         id: 3, 
         title: "Quarantine Day Planner",
-        imageSrc: "https://via.placeholder.com/300",
+        imageSrc: "assets/quarantinephoto.png",
         url: "https://github.com/perrytjr/project1"
       },
       {
         id: 4, 
         title: "Boo Chat",
-        imageSrc: "https://via.placeholder.com/300",
+        imageSrc: "assets/boochatphoto.png",
         url: "https://github.com/perrytjr/project2"
       },
       {
         id: 5, 
         title: "Eat-Da-Burger",
-        imageSrc: "https://via.placeholder.com/300",
+        imageSrc: "assets/burgerphoto.png",
         url: "https://github.com/perrytjr/Eat-Da-Burger"
       },
       {
         id: 6, 
         title: "Team Generator",
-        imageSrc: "https://via.placeholder.com/300",
+        imageSrc: "assets/teamgenerator.png",
         url: "https://github.com/perrytjr/Employee-Team-Generator"
       }
   
@@ -60,7 +60,7 @@ export default {
   
     // Contact Section
     contactPara:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Please feel free to contact me via LinkedIn or email me directly at my email address bellow.",
     social: [
       
       {
@@ -79,5 +79,10 @@ export default {
   
     // About Page
     aboutTitle: "I make remarkable digital products",
-    aboutPara:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry 's standard dummy text eversince the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    aboutPara:"I recently left my 6 year Hospitatlity Management career and started a 6 month Full Stack Coding Bootcamp at UC San Diego. My education consists of a Bachelors degree in Psychology and almost an entire second Bachelors degree in Teacher Education! Being a life long learner is very important to me. Better yet, I am now able to share all of my coding progress and accomplishments with you."
+    
+    
+    
+    
+    
   };
