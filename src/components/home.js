@@ -32,7 +32,7 @@ const Home = ({name, paragraph, authorImage, contactEmail, socialLinks})=>{
             </li>
           </ul>
           </div>
-            </div>
+          </div>
 
             <div className="image_container">
                 <img src={authorImage} alt="Author"></img>

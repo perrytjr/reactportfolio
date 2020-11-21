@@ -61,7 +61,7 @@ a{
 
 .home_container .home_head_wrapper{
   position: relative;
-  top:2rem;
+  top:1rem;
   display: flex;
   flex-direction: column;
   width: 40vw;
@@ -76,7 +76,7 @@ a{
 }
 .home_container .home_head_wrapper p{
   position: relative;
-  top:-4rem;
+  top:-1.5rem;
   font-size: 2rem;
   opacity: 0.4;
   
@@ -100,7 +100,7 @@ a{
 
 .home_container li{
   display: inline;
-  padding-right: 3rem;
+  padding-right: 2rem;
 }
 
 .home_container li a{
@@ -249,6 +249,7 @@ a{
   top: 2rem;
 }
 
+
 /* Work */
 .work_container {
   top: 10rem;
@@ -352,7 +353,14 @@ a{
     width: 8rem;
     top: 2rem;
   }
-
+  .home_container li {
+    padding-right: 1rem;
+  }
+  
+  .home_container li a {
+    font-size: 0.5rem;
+  }
+  
   /* Work */
   .work_container {
     top: 10rem;
