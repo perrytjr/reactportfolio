@@ -44,9 +44,9 @@ const Home = ({name, paragraph, authorImage, contactEmail, socialLinks})=>{
         
        
       
-    );
+   
     </div>
-    )
+    );
 }
 
 export default Home;
